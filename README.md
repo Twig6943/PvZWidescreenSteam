@@ -14,8 +14,6 @@ How to use this:
 
 (Bass.dll isn't included in this fork for obvious reasons)
 
-Credits: @Twig6943 @liquidovski
-
 ![GameSelector](/screenshots/GameSelector.png)
 
 ![SurvivalDay](/screenshots/SurvivalDay.png)
