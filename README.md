@@ -1,6 +1,6 @@
 A launcher for the PvZ Widescreen to be playable through Steam.
 
-How to actually use this:
+How to use this:
 
 1 - Install Plants vs Zombies through Steam
 
