@@ -12,6 +12,6 @@ How to actually use this:
 
 5 - Now all you need to do is click play from Steam, have fun!
 
-![GameSelector](/screenshots/GameSelector.png)
+Credits: @Twig6943 @liquidovski
 
-credits: @Twig6943 @liquidovski
+![GameSelector](/screenshots/GameSelector.png)
