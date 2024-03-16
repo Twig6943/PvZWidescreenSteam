@@ -17,3 +17,8 @@ How to actually use this:
 Credits: @Twig6943 @liquidovski
 
 ![GameSelector](/screenshots/GameSelector.png)
+
+![SurvivalDay](/screenshots/SurvivalDay.png)
+
+![ZenGarden](/screenshots/ZenGarden.png)
+
