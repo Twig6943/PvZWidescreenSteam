@@ -58,10 +58,10 @@ static mut SLOT_MACHINE_OFFSET_PTR: u32 = 0;
 static mut PAD_CONST_PTR: u32 = 0;
 
 fn main() -> Result<(), Box<dyn Error>> {
-    let pvz_process = Command::new("PlantsVsZombies.exe")
+    let pvz_process = Command::new("pvzgame.exe")
         .creation_flags(0x00000004)
         .spawn()
-        .expect("PlantsVsZombies.exe not found");
+        .expect("pvzgame.exe not found");
 
     unsafe {
         H_PROCESS = pvz_process.as_raw_handle() as *mut c_void;
