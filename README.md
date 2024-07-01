@@ -1,4 +1,4 @@
-A launcher for the PvZ Widescreen to be playable through Steam.
+A PvZ Widescreen fork that makes the game launchable from Steam.
 
 How to use this:
 
